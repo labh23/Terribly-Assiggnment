@@ -1,6 +1,6 @@
 # Terribly Tiny Tales
 
-This is a React app that Renders a "profile screen" as follows: https://www.terriblytinytales.com/profile.jpeg
+This is a React app that Renders a "profile screen".
 
 click on link to visit: https://shubhamkumarterribly.netlify.app/
 
@@ -35,13 +35,13 @@ While not explicitly shown in the provided code, axios is a potential library fo
 To run the app, first clone the repository to your local machine:
 
 ```
-git clone  https://github.com/neerajcode34/terrblyTask.git
+git clone  https://github.com/labh23/Terribly-Assiggnment.git
 ```
 
 Then, navigate to the project directory and install the required dependencies:
 
 ```
-cd terrblyTask
+cd Terribly-Assiggnment
 npm install
 ```
 
@@ -53,8 +53,6 @@ npm start
 
 This will open the app in your default browser at http://localhost:3000.
 
-## Acknowledgments
 
-This app was built as part of a coding Assignment. Thanks to Terribly Tiny Tales for the opportunity!
 
 
