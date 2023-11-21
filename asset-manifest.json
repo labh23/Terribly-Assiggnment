@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-Terribly-Assiggnment/static/css/main.cf3b0f3d.css",
+    "main.js": "/my-Terribly-Assiggnment/static/js/main.974d34e6.js",
+    "static/js/787.d14f312f.chunk.js": "/my-Terribly-Assiggnment/static/js/787.d14f312f.chunk.js",
+    "static/media/banner.jpg": "/my-Terribly-Assiggnment/static/media/banner.8daa404d6102e828acf5.jpg",
+    "static/media/profile-picture.jpg": "/my-Terribly-Assiggnment/static/media/profile-picture.374f654e36f33ea50162.jpg",
+    "static/media/company.svg": "/my-Terribly-Assiggnment/static/media/company.11ee41d5b116a09e4ca61d614949dc4d.svg",
+    "index.html": "/my-Terribly-Assiggnment/index.html",
+    "main.cf3b0f3d.css.map": "/my-Terribly-Assiggnment/static/css/main.cf3b0f3d.css.map",
+    "main.974d34e6.js.map": "/my-Terribly-Assiggnment/static/js/main.974d34e6.js.map",
+    "787.d14f312f.chunk.js.map": "/my-Terribly-Assiggnment/static/js/787.d14f312f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf3b0f3d.css",
+    "static/js/main.974d34e6.js"
+  ]
+}
